@@ -10,6 +10,9 @@ Funcionalidades
 Al momento de abrir el archivo este esta dividido en 4 secciones principales:
 
 Extracción: en esta sección podrás ver la importación de los datos de la API de Telecom X y información esencial sobre los clientes, incluyendo datos demográficos, tipo de servicio contratado y estado de evasión.
+
 Transformación: este paso es fundamental para comprender la estructura del dataset y el significado de sus columnas, además identificar las columnas más relevantes para el análisis de evasión.
+
 Carga y análisis: en este espacio podrás observar algunos análisis y gráficas que ayudan a comprender mejor la distribución y el comportamiento de los clientes.
+
 Informe: aquí encontraras un resumen de todo lo realizado en el notebook, conclusiones y recomendaciones.
