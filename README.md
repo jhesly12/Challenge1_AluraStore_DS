@@ -1,10 +1,12 @@
 #Desafío 2 
 
 Ciencia de Datos
+
 Descripción de su proyecto:
 El objetivo de este protecto es recopilar, procesar y analizar los datos de la empresa Telecom X, utilizando Python y sus principales bibliotecas para extraer información valiosa, como parte del proyecto "Churn de Clientes"; dado que la empresa enfrenta una alta tasa de cancelaciones y necesita comprender los factores que llevan a la pérdida de clientes. Apartir de este análisis, el equipo de Data Science podrá avanzar en modelos predictivos y desarrollar estrategias para reducir la evasión.
 
 Funcionalidades
+
 Al momento de abrir el archivo este esta dividido en 4 secciones principales:
 
 Extracción: en esta sección podrás ver la importación de los datos de la API de Telecom X y información esencial sobre los clientes, incluyendo datos demográficos, tipo de servicio contratado y estado de evasión.
